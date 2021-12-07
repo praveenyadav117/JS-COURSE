@@ -91,7 +91,7 @@
 
 // const firstName = 'Jonas';
 // const friends = [1,2,2,2]
-// const jonas = [firstName, 'Schmedtmann', 2037 - 1991, 'teacher', friends];
+// const jonas  = [firstName, 'Schmedtmann', 2037 - 1991, 'teacher', friends];
 // console.log(jonas[4][0]);
 // console.log(jonas.length);
 // friends.shift(2);// add at first 
